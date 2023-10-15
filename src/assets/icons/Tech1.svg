@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="24.00" height="24.00" viewBox="0.00 0.00 100.00 100.00" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g stroke-linecap="round" transform="translate(1.00, 0.00)" id="Layer_5">
+<path d="M29.08,5.64 Q49.26,5.64 69.45,5.64 Q95.45,5.64 95.45,31.64 Q95.45,51.44 95.45,71.24 Q95.45,97.24 69.45,97.24 Q49.26,97.24 29.08,97.24 Q3.08,97.24 3.08,71.24 Q3.08,51.44 3.08,31.64 Q3.08,5.64 29.08,5.64 Z" fill="none" stroke="rgb(35, 31, 32)" stroke-width="3.00" stroke-opacity="1.00" stroke-linejoin="round"/>
+<path d="M31.90,8.21 Q49.13,8.21 66.37,8.21 Q92.37,8.21 92.37,34.21 Q92.37,50.55 92.37,66.88 Q92.37,92.88 66.37,92.88 Q49.13,92.88 31.90,92.88 Q5.90,92.88 5.90,66.88 Q5.90,50.55 5.90,34.21 Q5.90,8.21 31.90,8.21 Z" fill="none" stroke="rgb(35, 31, 32)" stroke-width="15.10" stroke-opacity="1.00" stroke-linejoin="round"/>
+</g>
+<g stroke-linecap="round" id="Layer_4"/>
+</svg>
